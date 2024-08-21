@@ -1,4 +1,4 @@
 add_library (module 
-  sum.h
+  sum.hpp
   sum.cpp)
 
